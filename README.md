@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+to get the output please visit : https://meme-generator1-red.vercel.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
